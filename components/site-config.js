@@ -9,7 +9,7 @@ window.SITE_CONFIG = {
   logo: "images/freestanding-bathtubs-logo.svg?v=1",
   newsletterUrl: "",
   affiliateTag: "best-bath-tubs-20",
-  gaId: "TBD",
+  gaId: "G-JVE9WCRHDS",
   colors: {
     primary: "#0E4D64",
     primaryLight: "#2A7A94",
