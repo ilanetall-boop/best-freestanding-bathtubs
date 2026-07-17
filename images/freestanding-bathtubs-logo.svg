@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 40" width="240" height="40" role="img" aria-label="Best Freestanding Bathtubs">
+  <g fill="none" stroke="#0E4D64" stroke-width="2.2" stroke-linecap="round">
+    <path d="M10 22 h26 a4 4 0 0 1 4 4 v2 a6 6 0 0 1 -6 6 h-22 a6 6 0 0 1 -6 -6 v-2 a4 4 0 0 1 4 -4 z"/>
+    <path d="M12 22 v-6 a4 4 0 0 1 8 0" stroke="#C8963E"/>
+    <line x1="14" y1="34" x2="13" y2="38"/>
+    <line x1="34" y1="34" x2="35" y2="38"/>
+  </g>
+  <text x="52" y="19" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#0E4D64">Best Freestanding</text>
+  <text x="52" y="34" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#C8963E">Bathtubs</text>
+</svg>
