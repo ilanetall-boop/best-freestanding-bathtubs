@@ -6,7 +6,7 @@ window.SITE_CONFIG = {
   name: "Best Freestanding Bathtubs",
   domain: "best-freestanding-bathtubs.com",
   tagline: "Expert reviews of soaking, acrylic & clawfoot freestanding tubs",
-  logo: "images/freestanding-bathtubs-logo.svg?v=1",
+  logo: "images/freestanding-bathtubs-logo.svg?v=2",
   newsletterUrl: "",
   affiliateTag: "best-bath-tubs-20",
   gaId: "G-JVE9WCRHDS",
