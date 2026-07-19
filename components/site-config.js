@@ -50,7 +50,8 @@ window.SITE_CONFIG = {
       { label: "Best Bathroom Faucets", href: "https://www.best-bathroom-faucets.com" },
       { label: "Best Bathroom Storage", href: "https://bestbathroomstorage.com" },
       { label: "Best Shower Doors", href: "https://best-shower-doors.com" },
-      { label: "Best One Piece Toilets", href: "https://best-one-piece-toilets.com" }
+      { label: "Best One Piece Toilets", href: "https://best-one-piece-toilets.com" },
+      { label: "Best Shower Panels", href: "https://best-shower-panels.com" }
     ]
   },
   networkBanners: [
